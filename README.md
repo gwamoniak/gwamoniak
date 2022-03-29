@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Qt/C++ and DL projects**
 
-- 🌱 I’m currently learning **C# and DevOps**
+- 🌱 I’m currently learning **ML and DevOps**
 
 - ⚡ Fun fact **I love cooking and meeting new people**
 
